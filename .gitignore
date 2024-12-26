@@ -1,0 +1,20 @@
+# Python virtual environment
+bin/
+include/
+lib/
+pyvenv.cfg
+share/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pickle files
+*.pkl
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
